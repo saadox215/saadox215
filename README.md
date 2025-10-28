@@ -303,7 +303,7 @@ Docker/Kubernetes
 ## 🎵 Current Vibe
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=saadox215&cover_image=true&theme=novatorem" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
