@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" hspace="20" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" style="margin-left: 20px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const saad = {
