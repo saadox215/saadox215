@@ -20,21 +20,21 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const saad = {
     status: "Engineering Student @ ENSA Khouribga",
     location: "Morocco 🇲🇦",
     currentFocus: "Full-Stack Development & DevOps",
-    lookingFor: "PFE Internship 2025",
+    lookingFor: "PFE Internship 2026",
     passion: [
         "Building scalable systems",
         "Automating workflows",
         "Clean architecture",
         "Problem solving"
     ],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log() and I'm not ashamed!"
 };
 ```
 
