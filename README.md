@@ -20,10 +20,9 @@
 
 ## 👨‍💻 About Me
 
-<div align="right" style="margin-left: 20px;">
-  <img alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
-
+<table>
+<tr>
+<td width="60%">
 ```typescript
 const saad = {
     status: "Engineering Student @ ENSA Khouribga",
@@ -38,6 +37,16 @@ const saad = {
     ],
     funFact: "I debug with console.log() and I'm not ashamed!"
 };
+```
+
+</td>
+<td width="40%" align="center">
+
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+</td>
+</tr>
+</table>
 ```
 
 ⚡ **Currently Seeking:** PFE Internship in **Full-Stack Development** (Java/Spring Boot/React) or **DevOps**
