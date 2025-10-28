@@ -23,7 +23,7 @@
 - Backend : Flask / Python / Spring boot / Java
 - Modèle ML : scikit-learn + Pandas
 
-### ☁️ [Projet Kubernetes DevOps](https://github.com/saadox215/k8s-project)
+### ☁️ [Projet Kubernetes DevOps](https://github.com/saadox215/k8s_project)
 > Déploiement d’une application web conteneurisée sur un cluster Kubernetes avec autoscaling et load balancing.
 
 ---
