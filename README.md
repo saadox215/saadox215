@@ -17,13 +17,13 @@
 
 ## 💡 Projets récents
 
-### 🔬 [Dr Vito - Plateforme de prédiction de maladies](https://github.com/saadox215/dr-vito)
+### 🔬 [Dr Vito - Plateforme de prédiction de maladies](https://github.com/ROBOT-DE-PREDICTION-DES-MALADIES/PredictionMaladie.git)
 > Application web utilisant React, Flask et un modèle de machine learning pour prédire des maladies à partir de symptômes.
 - Frontend : React + TypeScript
-- Backend : Flask / Python
+- Backend : Flask / Python / Spring boot / Java
 - Modèle ML : scikit-learn + Pandas
 
-### ☁️ [Projet Kubernetes DevOps](https://github.com/saadox215/k8s-projet)
+### ☁️ [Projet Kubernetes DevOps](https://github.com/saadox215/k8s-project)
 > Déploiement d’une application web conteneurisée sur un cluster Kubernetes avec autoscaling et load balancing.
 
 ---
