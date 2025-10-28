@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 permissions:
-  contents: write  # permet de pousser via GITHUB_TOKEN
+  contents: write
 
 jobs:
   build:
@@ -32,30 +32,27 @@ jobs:
       - name: Prepare output folder
         run: |
           mkdir -p out
-          # the Platane action writes snake.svg to current dir; move it to out/ if present
           if [ -f snake.svg ]; then mv snake.svg out/snake.svg; fi
-          # fallback: check dist/snake.svg
           if [ -f dist/snake.svg ]; then mv dist/snake.svg out/snake.svg; fi
           ls -la out
 
-      - name: Configure remote to use token
+      - name: Configure remote to use GITHUB_TOKEN
         run: |
-          # set authenticated remote so push works with GITHUB_TOKEN
+          # replace remote URL so git uses the token for authentication
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git fetch origin
 
       - name: Commit and push to output branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git checkout --orphan output || git checkout output || git checkout -b output
           git rm -rf .
           cp -r out/* .
           git add -A
-          # if nothing changed, skip commit to avoid failing
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update contribution snake [ci skip]"
             git push origin output --force
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
