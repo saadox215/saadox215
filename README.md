@@ -293,7 +293,7 @@ Docker/Kubernetes
 ## 🎵 Current Vibe
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k56rktjsmi7d3g4xwqt7xk7c6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=saadox215&cover_image=true&theme=novatorem" />
 </div>
 
 ---
@@ -301,7 +301,7 @@ Docker/Kubernetes
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/saadox215/saadox215/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/saadox215/saadox215/output/snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
