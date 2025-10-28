@@ -22,9 +22,9 @@
 
 <table>
 <tr>
-<td width="60%">
-```typescript
-const saad = {
+<td width="60%" valign="top">
+
+<pre><code class="language-typescript">const saad = {
     status: "Engineering Student @ ENSA Khouribga",
     location: "Morocco 🇲🇦",
     currentFocus: "Full-Stack Development & DevOps",
@@ -36,11 +36,10 @@ const saad = {
         "Problem solving"
     ],
     funFact: "I debug with console.log() and I'm not ashamed!"
-};
-```
+};</code></pre>
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top">
 
 <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
