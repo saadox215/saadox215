@@ -24,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-<pre><code class="language-typescript">const saad = {
+<pre><code class="typescript">const saad = {
     status: "Engineering Student @ ENSA Khouribga",
     location: "Morocco 🇲🇦",
     currentFocus: "Full-Stack Development & DevOps",
