@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" border="0">
 
 <pre><code class="typescript">const saad = {
     status: "Engineering Student @ ENSA Khouribga",
