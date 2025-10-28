@@ -35,5 +35,5 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email : saad.afifi@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saad-afifi)
+- ✉️ Email : afifisaad8@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saad-afifi/)
