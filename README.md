@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const saad = {
@@ -38,7 +38,7 @@ const saad = {
 };
 ```
 
-🎯 **Currently Seeking:** PFE Internship in **Full-Stack Development** (Java/Spring Boot/React) or **DevOps**
+⚡ **Currently Seeking:** PFE Internship in **Full-Stack Development** (Java/Spring Boot/React) or **DevOps**
 
 💡 **Philosophy:** Write code that speaks for itself — clean, maintainable, and elegant.
 
