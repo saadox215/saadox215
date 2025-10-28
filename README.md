@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 <div align="right" style="margin-left: 20px;">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </div>
 
 ```typescript
