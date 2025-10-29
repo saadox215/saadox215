@@ -303,7 +303,7 @@ Docker/Kubernetes
 ## 🎵 Current Vibe
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=150&section=header&text=Keep%20Pushing%20Forward&fontSize=30&fontColor=fff" />
 </div>
 
 ---
