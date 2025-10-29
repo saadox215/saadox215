@@ -46,6 +46,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ⚡ **Currently Seeking:** PFE Internship in **Full-Stack Development** (Java/Spring Boot/React) or **DevOps**
