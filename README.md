@@ -272,9 +272,9 @@ Infrastructure:
 <td align="center" width="33%">
 
 ### 🎯 Internship Focus
-PFE Internship 2025<br/>
+PFE Internship 2026<br/>
 Duration: 4-6 months<br/>
-Start: February-March 2025
+Start: February-March 2026
 
 </td>
 <td align="center" width="33%">
